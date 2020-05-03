@@ -1,2 +1,1 @@
 # vue-use
-vue-use
